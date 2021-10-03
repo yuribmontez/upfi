@@ -17,9 +17,9 @@ The project aims to study:
 
 This project was developed as a challenge for [Rocketseat](https://rocketseat.com.br)'s Ignite module.
 
-<!-- <div align="center">
-  <img src="" width="1000px"/>
-</div> -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/77989191/135768001-aa2f0b1c-1947-4760-9650-02cd176e5b75.png" width="1000px"/>
+</div>
 
 ## 🧪 Tecnologies
 
@@ -59,7 +59,8 @@ $ yarn
 $ cp .env.example .env.local
 
 # Run project
-$ yarn dev
+$ yarn dev![Capa](https://user-images.githubusercontent.com/77989191/135767991-107eb77d-3363-44b7-847d-9c79d05b48b1.png)
+
 ```
 
 ## 🔖 Layout
